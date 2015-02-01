@@ -1,0 +1,15 @@
+*.log
+tmp/
+logs/
+node_modules
+client/config/*.json
+.idea
+*.swp
+*.swo
+*.swn
+*.orig
+*.local
+build/
+
+.DS_Store
+start.sh
